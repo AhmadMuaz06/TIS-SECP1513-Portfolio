@@ -8,7 +8,7 @@
 ## 📝 List of Assignments
 | No. | Date | Assignment/Topic | Key Takeaway/Reflection | Evidence |
 | :-: | :-: | :--- | :--- | :-: |
-| 1 | 28/10/2025 | **UTM Digital Open Day** | Attended the open day and explored various booths. Learned about the future of AI implementation in UTM's digital system. It was a great exposure to campus innovations. | [Reflection](./Assignment1-OpenDay) <br> [Video](videolink) |
+| 1 | 28/10/2025 | **UTM Digital Open Day** | Attended the open day and explored various booths. Learned about the future of AI implementation in UTM's digital system. It was a great exposure to campus innovations. | [Reflection](./Assignment1-OpenDay) <br> [Video](https://drive.google.com/drive/folders/1g2Tgl_hmcbfRy0laUW8wlvO3CdqkYbgi?usp=sharing) |
 | 2 | 11/11/2025 | **PC Maintenance** | Participated in the hands-on PC assembly lab. Learned how to identify components like CPU, RAM, and Motherboard. It boosted my confidence in handling hardware. | [Reflection](./Assignment2-PCMaintenance) <br> [Photos](https://drive.google.com/drive/folders/1z9WM7Pac-Po_kl1pndJ-kML6Jy4Bdn9P?usp=sharing)|
 | 3 | 20/11/2025 | **Industry Talk (PPG)** | Learned about PPG's supply chain and paint technology. Gained insights on Data Analytics, Cloud Infrastructure, and SAP from industry experts. | [Poster](./Assignment3-PPG) |
 | 4 | 18/12/2025 | **Industry Talk (Serunai)** | Talk by Serunai Commerce on project management. Learned about "Agile" methods and AI integration in business. | [Poster](./Assignment4-Serunai) |
